@@ -1,3 +1,4 @@
 Poireaux
 Carrottes
 Patates
+Soja
